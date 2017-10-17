@@ -1,0 +1,26 @@
+body {
+  font: 10px serif;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.letter-A {
+  fill: green;
+  font-weight: bold;
+}
+.letter-C {
+    fill: blue;
+    font-weight: bold;
+}
+.letter-T {
+    fill: red;
+    font-weight: bold;
+}
+.letter-G {
+    fill: yellow;
+    font-weight: bold;
+}
